@@ -11,7 +11,8 @@
                 "id": 15,
                 "name": "BB",
                 "isPreferred": false,
-                "countryCode": "BB"
+                "countryCode": "BB",
+                "countryName": "Barbados"
             }
         },
         {
@@ -110,8 +111,9 @@
             "properties": {
                 "id": 525,
                 "name": "BGI",
-                "isPreferred": false,
-                "countryCode": "BB"
+                "isPreferred": true,
+                "countryCode": "BB",
+                "countryName": "Barbados"
             }
         },
         {
@@ -124,7 +126,8 @@
                 "id": 27,
                 "name": "BR",
                 "isPreferred": true,
-                "countryCode": "BR"
+                "countryCode": "BR",
+                "countryName": "Brazil"
             }
         },
         {
@@ -239,8 +242,9 @@
             "properties": {
                 "id": 645,
                 "name": "FOR",
-                "isPreferred": true,
-                "countryCode": "BR"
+                "isPreferred": false,
+                "countryCode": "BR",
+                "countryName": "Brazil"
             }
         },
         {
@@ -340,7 +344,149 @@
                 "id": 692,
                 "name": "IGU",
                 "isPreferred": true,
-                "countryCode": "BR"
+                "countryCode": "BR",
+                "countryName": "Brazil"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -35.82040873016902,
+                            -9.418166873326575
+                        ],
+                        [
+                            -35.84846552653961,
+                            -9.44192949004845
+                        ],
+                        [
+                            -35.841901136462994,
+                            -9.477643627582129
+                        ],
+                        [
+                            -35.86996325667193,
+                            -9.501404369021113
+                        ],
+                        [
+                            -35.863398873753205,
+                            -9.537113210353453
+                        ],
+                        [
+                            -35.89146631167488,
+                            -9.5608720003257
+                        ],
+                        [
+                            -35.88490193796823,
+                            -9.596575469670277
+                        ],
+                        [
+                            -35.85026860381768,
+                            -9.608516246733428
+                        ],
+                        [
+                            -35.84370271703084,
+                            -9.644210385539077
+                        ],
+                        [
+                            -35.809071676707546,
+                            -9.656141306736766
+                        ],
+                        [
+                            -35.80250428368858,
+                            -9.691826044046946
+                        ],
+                        [
+                            -35.76787557291805,
+                            -9.703747051580745
+                        ],
+                        [
+                            -35.76130668051929,
+                            -9.73942231656987
+                        ],
+                        [
+                            -35.72668033501765,
+                            -9.751333352777209
+                        ],
+                        [
+                            -35.69862825479165,
+                            -9.727572611657601
+                        ],
+                        [
+                            -35.66400969701806,
+                            -9.739477140587141
+                        ],
+                        [
+                            -35.63596691667916,
+                            -9.715713882432373
+                        ],
+                        [
+                            -35.64253876431993,
+                            -9.680046575487152
+                        ],
+                        [
+                            -35.61450137838406,
+                            -9.656281331317984
+                        ],
+                        [
+                            -35.621073211484806,
+                            -9.620608538334318
+                        ],
+                        [
+                            -35.65568097142245,
+                            -9.608696964679766
+                        ],
+                        [
+                            -35.66225133065087,
+                            -9.573014716870725
+                        ],
+                        [
+                            -35.634215391391066,
+                            -9.549248084020341
+                        ],
+                        [
+                            -35.640785737962965,
+                            -9.513560478804845
+                        ],
+                        [
+                            -35.67539055987917,
+                            -9.501635476749845
+                        ],
+                        [
+                            -35.68195942964612,
+                            -9.465938540630688
+                        ],
+                        [
+                            -35.716566688967,
+                            -9.454003690979794
+                        ],
+                        [
+                            -35.72313407507357,
+                            -9.418297494955329
+                        ],
+                        [
+                            -35.7577437361542,
+                            -9.406352855571114
+                        ],
+                        [
+                            -35.78579136399914,
+                            -9.43011784540416
+                        ],
+                        [
+                            -35.82040873016902,
+                            -9.418166873326575
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 758,
+                "name": "MCZ",
+                "isPreferred": false,
+                "countryCode": "BR",
+                "countryName": "Brazil"
             }
         },
         {
@@ -432,7 +578,8 @@
                 "id": 787,
                 "name": "NAT",
                 "isPreferred": false,
-                "countryCode": "BR"
+                "countryCode": "BR",
+                "countryName": "Brazil"
             }
         },
         {
@@ -523,8 +670,9 @@
             "properties": {
                 "id": 855,
                 "name": "REC",
-                "isPreferred": true,
-                "countryCode": "BR"
+                "isPreferred": false,
+                "countryCode": "BR",
+                "countryName": "Brazil"
             }
         },
         {
@@ -840,7 +988,8 @@
                 "id": 867,
                 "name": "Rio de Janeiro",
                 "isPreferred": false,
-                "countryCode": "BR"
+                "countryCode": "BR",
+                "countryName": "Brazil"
             }
         },
         {
@@ -1060,7 +1209,8 @@
                 "id": 912,
                 "name": "Sao Paulo",
                 "isPreferred": false,
-                "countryCode": "BR"
+                "countryCode": "BR",
+                "countryName": "Brazil"
             }
         },
         {
@@ -1208,7 +1358,8 @@
                 "id": 891,
                 "name": "SSA",
                 "isPreferred": false,
-                "countryCode": "BR"
+                "countryCode": "BR",
+                "countryName": "Brazil"
             }
         },
         {
@@ -1563,8 +1714,9 @@
             "properties": {
                 "id": 939,
                 "name": "Toronto",
-                "isPreferred": true,
-                "countryCode": "CA"
+                "isPreferred": false,
+                "countryCode": "CA",
+                "countryName": "Canada"
             }
         },
         {
@@ -1863,8 +2015,9 @@
             "properties": {
                 "id": 969,
                 "name": "YUL",
-                "isPreferred": false,
-                "countryCode": "CA"
+                "isPreferred": true,
+                "countryCode": "CA",
+                "countryName": "Canada"
             }
         },
         {
@@ -2132,7 +2285,8 @@
                 "id": 970,
                 "name": "YVR",
                 "isPreferred": true,
-                "countryCode": "CA"
+                "countryCode": "CA",
+                "countryName": "Canada"
             }
         },
         {
@@ -2336,7 +2490,8 @@
                 "id": 971,
                 "name": "YYC",
                 "isPreferred": false,
-                "countryCode": "CA"
+                "countryCode": "CA",
+                "countryName": "Canada"
             }
         },
         {
@@ -2483,8 +2638,9 @@
             "properties": {
                 "id": 726,
                 "name": "LCA",
-                "isPreferred": false,
-                "countryCode": "CY"
+                "isPreferred": true,
+                "countryCode": "CY",
+                "countryName": "Cyprus"
             }
         },
         {
@@ -2704,7 +2860,8 @@
                 "id": 670,
                 "name": "HAM",
                 "isPreferred": false,
-                "countryCode": "DE"
+                "countryCode": "DE",
+                "countryName": "Germany"
             }
         },
         {
@@ -2717,7 +2874,8 @@
                 "id": 54,
                 "name": "DO",
                 "isPreferred": false,
-                "countryCode": "DO"
+                "countryCode": "DO",
+                "countryName": "Dominican Republic"
             }
         },
         {
@@ -2889,7 +3047,8 @@
                 "id": 741,
                 "name": "LRM",
                 "isPreferred": false,
-                "countryCode": "DO"
+                "countryCode": "DO",
+                "countryName": "Dominican Republic"
             }
         },
         {
@@ -3149,7 +3308,8 @@
                 "id": 875,
                 "name": "SDQ",
                 "isPreferred": false,
-                "countryCode": "DO"
+                "countryCode": "DO",
+                "countryName": "Dominican Republic"
             }
         },
         {
@@ -3568,8 +3728,9 @@
             "properties": {
                 "id": 604,
                 "name": "Cairo",
-                "isPreferred": false,
-                "countryCode": "EG"
+                "isPreferred": true,
+                "countryCode": "EG",
+                "countryName": "Egypt"
             }
         },
         {
@@ -3581,8 +3742,9 @@
             "properties": {
                 "id": 58,
                 "name": "EG",
-                "isPreferred": true,
-                "countryCode": "EG"
+                "isPreferred": false,
+                "countryCode": "EG",
+                "countryName": "Egypt"
             }
         },
         {
@@ -3625,8 +3787,9 @@
             "properties": {
                 "id": 673,
                 "name": "HBE",
-                "isPreferred": true,
-                "countryCode": "EG"
+                "isPreferred": false,
+                "countryCode": "EG",
+                "countryName": "Egypt"
             }
         },
         {
@@ -3926,7 +4089,8 @@
                 "id": 680,
                 "name": "HRG",
                 "isPreferred": false,
-                "countryCode": "EG"
+                "countryCode": "EG",
+                "countryName": "Egypt"
             }
         },
         {
@@ -4034,7 +4198,117 @@
                 "id": 745,
                 "name": "LXR",
                 "isPreferred": false,
-                "countryCode": "EG"
+                "countryCode": "EG",
+                "countryName": "Egypt"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            34.53897058567843,
+                            25.55860099628726
+                        ],
+                        [
+                            34.52120350637306,
+                            25.526150401101642
+                        ],
+                        [
+                            34.54287363122057,
+                            25.496114798854435
+                        ],
+                        [
+                            34.52511607466707,
+                            25.463665799061005
+                        ],
+                        [
+                            34.54677206341283,
+                            25.433637406340008
+                        ],
+                        [
+                            34.58616969216563,
+                            25.436050305957565
+                        ],
+                        [
+                            34.6077956459442,
+                            25.406021474534526
+                        ],
+                        [
+                            34.6471709117066,
+                            25.408420649901462
+                        ],
+                        [
+                            34.66494383017932,
+                            25.440843014581255
+                        ],
+                        [
+                            34.64333384778774,
+                            25.470879532459858
+                        ],
+                        [
+                            34.66111631397722,
+                            25.50330351962564
+                        ],
+                        [
+                            34.63949224458872,
+                            25.533347289884514
+                        ],
+                        [
+                            34.65728426849522,
+                            25.5657728250368
+                        ],
+                        [
+                            34.63564609408441,
+                            25.595823774684042
+                        ],
+                        [
+                            34.65344768572336,
+                            25.628250783285033
+                        ],
+                        [
+                            34.631795388230756,
+                            25.65830883924061
+                        ],
+                        [
+                            34.5923254650294,
+                            25.65593224666801
+                        ],
+                        [
+                            34.57064299256937,
+                            25.685989709608453
+                        ],
+                        [
+                            34.53115062189475,
+                            25.683599215060767
+                        ],
+                        [
+                            34.51336446723784,
+                            25.651145652887916
+                        ],
+                        [
+                            34.53506291862874,
+                            25.621095850958042
+                        ],
+                        [
+                            34.517286306627255,
+                            25.58864373496677
+                        ],
+                        [
+                            34.53897058567843,
+                            25.55860099628726
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 858,
+                "name": "RMF",
+                "isPreferred": false,
+                "countryCode": "EG",
+                "countryName": "Egypt"
             }
         },
         {
@@ -4190,7 +4464,8 @@
                 "id": 892,
                 "name": "SSH",
                 "isPreferred": true,
-                "countryCode": "EG"
+                "countryCode": "EG",
+                "countryName": "Egypt"
             }
         },
         {
@@ -4538,7 +4813,8 @@
                 "id": 847,
                 "name": "Paris",
                 "isPreferred": false,
-                "countryCode": "FR"
+                "countryCode": "FR",
+                "countryName": "France"
             }
         },
         {
@@ -4750,7 +5026,8 @@
                 "id": 547,
                 "name": "BRS",
                 "isPreferred": false,
-                "countryCode": "GB"
+                "countryCode": "GB",
+                "countryName": "United Kingdom"
             }
         },
         {
@@ -4922,7 +5199,8 @@
                 "id": 635,
                 "name": "EDI",
                 "isPreferred": true,
-                "countryCode": "GB"
+                "countryCode": "GB",
+                "countryName": "United Kingdom"
             }
         },
         {
@@ -4935,7 +5213,8 @@
                 "id": 70,
                 "name": "GB",
                 "isPreferred": false,
-                "countryCode": "GB"
+                "countryCode": "GB",
+                "countryName": "United Kingdom"
             }
         },
         {
@@ -5163,7 +5442,8 @@
                 "id": 654,
                 "name": "GLA",
                 "isPreferred": false,
-                "countryCode": "GB"
+                "countryCode": "GB",
+                "countryName": "United Kingdom"
             }
         },
         {
@@ -5646,8 +5926,9 @@
             "properties": {
                 "id": 750,
                 "name": "London",
-                "isPreferred": true,
-                "countryCode": "GB"
+                "isPreferred": false,
+                "countryCode": "GB",
+                "countryName": "United Kingdom"
             }
         },
         {
@@ -5947,7 +6228,8 @@
                 "id": 510,
                 "name": "ATH",
                 "isPreferred": true,
-                "countryCode": "GR"
+                "countryCode": "GR",
+                "countryName": "Greece"
             }
         },
         {
@@ -6167,7 +6449,8 @@
                 "id": 609,
                 "name": "Corfu",
                 "isPreferred": true,
-                "countryCode": "GR"
+                "countryCode": "GR",
+                "countryName": "Greece"
             }
         },
         {
@@ -6331,7 +6614,8 @@
                 "id": 722,
                 "name": "Kos",
                 "isPreferred": false,
-                "countryCode": "GR"
+                "countryCode": "GR",
+                "countryName": "Greece"
             }
         },
         {
@@ -6846,8 +7130,9 @@
             "properties": {
                 "id": 620,
                 "name": "DPS",
-                "isPreferred": true,
-                "countryCode": "ID"
+                "isPreferred": false,
+                "countryCode": "ID",
+                "countryName": "Indonesia"
             }
         },
         {
@@ -6860,7 +7145,8 @@
                 "id": 92,
                 "name": "ID",
                 "isPreferred": true,
-                "countryCode": "ID"
+                "countryCode": "ID",
+                "countryName": "Indonesia"
             }
         },
         {
@@ -7080,7 +7366,8 @@
                 "id": 699,
                 "name": "JOG",
                 "isPreferred": true,
-                "countryCode": "ID"
+                "countryCode": "ID",
+                "countryName": "Indonesia"
             }
         },
         {
@@ -7124,7 +7411,8 @@
                 "id": 707,
                 "name": "KNO",
                 "isPreferred": true,
-                "countryCode": "ID"
+                "countryCode": "ID",
+                "countryName": "Indonesia"
             }
         },
         {
@@ -7288,7 +7576,8 @@
                 "id": 512,
                 "name": "ATQ",
                 "isPreferred": false,
-                "countryCode": "IN"
+                "countryCode": "IN",
+                "countryName": "India"
             }
         },
         {
@@ -7571,8 +7860,9 @@
             "properties": {
                 "id": 534,
                 "name": "BLR",
-                "isPreferred": false,
-                "countryCode": "IN"
+                "isPreferred": true,
+                "countryCode": "IN",
+                "countryName": "India"
             }
         },
         {
@@ -7776,7 +8066,8 @@
                 "id": 541,
                 "name": "BOM",
                 "isPreferred": false,
-                "countryCode": "IN"
+                "countryCode": "IN",
+                "countryName": "India"
             }
         },
         {
@@ -7932,7 +8223,8 @@
                 "id": 573,
                 "name": "CCU",
                 "isPreferred": false,
-                "countryCode": "IN"
+                "countryCode": "IN",
+                "countryName": "India"
             }
         },
         {
@@ -8016,7 +8308,8 @@
                 "id": 590,
                 "name": "COK",
                 "isPreferred": false,
-                "countryCode": "IN"
+                "countryCode": "IN",
+                "countryName": "India"
             }
         },
         {
@@ -8268,7 +8561,8 @@
                 "id": 615,
                 "name": "DEL",
                 "isPreferred": true,
-                "countryCode": "IN"
+                "countryCode": "IN",
+                "countryName": "India"
             }
         },
         {
@@ -8512,7 +8806,8 @@
                 "id": 657,
                 "name": "GOI",
                 "isPreferred": false,
-                "countryCode": "IN"
+                "countryCode": "IN",
+                "countryName": "India"
             }
         },
         {
@@ -8708,7 +9003,8 @@
                 "id": 684,
                 "name": "HYD",
                 "isPreferred": false,
-                "countryCode": "IN"
+                "countryCode": "IN",
+                "countryName": "India"
             }
         },
         {
@@ -8721,7 +9017,8 @@
                 "id": 95,
                 "name": "IN",
                 "isPreferred": false,
-                "countryCode": "IN"
+                "countryCode": "IN",
+                "countryName": "India"
             }
         },
         {
@@ -8901,7 +9198,8 @@
                 "id": 696,
                 "name": "JAI",
                 "isPreferred": false,
-                "countryCode": "IN"
+                "countryCode": "IN",
+                "countryName": "India"
             }
         },
         {
@@ -9121,7 +9419,8 @@
                 "id": 753,
                 "name": "MAA",
                 "isPreferred": true,
-                "countryCode": "IN"
+                "countryCode": "IN",
+                "countryName": "India"
             }
         },
         {
@@ -9197,7 +9496,8 @@
                 "id": 943,
                 "name": "UDR",
                 "isPreferred": true,
-                "countryCode": "IN"
+                "countryCode": "IN",
+                "countryName": "India"
             }
         },
         {
@@ -9361,7 +9661,8 @@
                 "id": 533,
                 "name": "BLQ",
                 "isPreferred": false,
-                "countryCode": "IT"
+                "countryCode": "IT",
+                "countryName": "Italy"
             }
         },
         {
@@ -9517,7 +9818,117 @@
                 "id": 594,
                 "name": "CTA",
                 "isPreferred": true,
-                "countryCode": "IT"
+                "countryCode": "IT",
+                "countryName": "Italy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            11.24951511826991,
+                            43.87922051927511
+                        ],
+                        [
+                            11.203300518533927,
+                            43.86922914926165
+                        ],
+                        [
+                            11.190484311115851,
+                            43.83627467997878
+                        ],
+                        [
+                            11.144313770689289,
+                            43.826261648895645
+                        ],
+                        [
+                            11.131531199829924,
+                            43.79329321463951
+                        ],
+                        [
+                            11.0854047404691,
+                            43.78325861429088
+                        ],
+                        [
+                            11.072655755698634,
+                            43.75027629611237
+                        ],
+                        [
+                            11.105998803550749,
+                            43.72732747846394
+                        ],
+                        [
+                            11.152101334561204,
+                            43.73735334224148
+                        ],
+                        [
+                            11.185430084139158,
+                            43.71437320505288
+                        ],
+                        [
+                            11.17264587562623,
+                            43.68137486114179
+                        ],
+                        [
+                            11.205949870017122,
+                            43.65837109130664
+                        ],
+                        [
+                            11.25204841387279,
+                            43.66835800300186
+                        ],
+                        [
+                            11.264866935741729,
+                            43.70135738596631
+                        ],
+                        [
+                            11.311009291152702,
+                            43.71132273126151
+                        ],
+                        [
+                            11.323861380237531,
+                            43.74430818496203
+                        ],
+                        [
+                            11.370047524635073,
+                            43.75425187221352
+                        ],
+                        [
+                            11.38293323070763,
+                            43.78722331548108
+                        ],
+                        [
+                            11.349598473444553,
+                            43.810250123098925
+                        ],
+                        [
+                            11.362483503076925,
+                            43.843206562204756
+                        ],
+                        [
+                            11.329123862610771,
+                            43.866209715100176
+                        ],
+                        [
+                            11.282889402425278,
+                            43.85624873998446
+                        ],
+                        [
+                            11.24951511826991,
+                            43.87922051927511
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 643,
+                "name": "FLR",
+                "isPreferred": false,
+                "countryCode": "IT",
+                "countryName": "Italy"
             }
         },
         {
@@ -10017,7 +10428,8 @@
                 "id": 776,
                 "name": "MXP",
                 "isPreferred": false,
-                "countryCode": "IT"
+                "countryCode": "IT",
+                "countryName": "Italy"
             }
         },
         {
@@ -10213,7 +10625,8 @@
                 "id": 838,
                 "name": "PSA",
                 "isPreferred": false,
-                "countryCode": "IT"
+                "countryCode": "IT",
+                "countryName": "Italy"
             }
         },
         {
@@ -10409,7 +10822,8 @@
                 "id": 868,
                 "name": "Roma",
                 "isPreferred": false,
-                "countryCode": "IT"
+                "countryCode": "IT",
+                "countryName": "Italy"
             }
         },
         {
@@ -10422,7 +10836,8 @@
                 "id": 101,
                 "name": "JM",
                 "isPreferred": false,
-                "countryCode": "JM"
+                "countryCode": "JM",
+                "countryName": "Jamaica"
             }
         },
         {
@@ -10642,7 +11057,8 @@
                 "id": 757,
                 "name": "MBJ",
                 "isPreferred": true,
-                "countryCode": "JM"
+                "countryCode": "JM",
+                "countryName": "Jamaica"
             }
         },
         {
@@ -10918,7 +11334,8 @@
                 "id": 494,
                 "name": "AGA",
                 "isPreferred": true,
-                "countryCode": "MA"
+                "countryCode": "MA",
+                "countryName": "Morocco"
             }
         },
         {
@@ -11186,7 +11603,8 @@
                 "id": 586,
                 "name": "CMN",
                 "isPreferred": false,
-                "countryCode": "MA"
+                "countryCode": "MA",
+                "countryName": "Morocco"
             }
         },
         {
@@ -11366,7 +11784,8 @@
                 "id": 639,
                 "name": "ESU",
                 "isPreferred": false,
-                "countryCode": "MA"
+                "countryCode": "MA",
+                "countryName": "Morocco"
             }
         },
         {
@@ -11562,7 +11981,8 @@
                 "id": 641,
                 "name": "FEZ",
                 "isPreferred": true,
-                "countryCode": "MA"
+                "countryCode": "MA",
+                "countryName": "Morocco"
             }
         },
         {
@@ -11575,7 +11995,8 @@
                 "id": 125,
                 "name": "MA",
                 "isPreferred": false,
-                "countryCode": "MA"
+                "countryCode": "MA",
+                "countryName": "Morocco"
             }
         },
         {
@@ -11915,7 +12336,8 @@
                 "id": 853,
                 "name": "RAK",
                 "isPreferred": true,
-                "countryCode": "MA"
+                "countryCode": "MA",
+                "countryName": "Morocco"
             }
         },
         {
@@ -12095,7 +12517,8 @@
                 "id": 854,
                 "name": "RBA",
                 "isPreferred": false,
-                "countryCode": "MA"
+                "countryCode": "MA",
+                "countryName": "Morocco"
             }
         },
         {
@@ -12259,7 +12682,8 @@
                 "id": 923,
                 "name": "TGD",
                 "isPreferred": true,
-                "countryCode": "ME"
+                "countryCode": "ME",
+                "countryName": "Montenegro"
             }
         },
         {
@@ -12543,7 +12967,8 @@
                 "id": 925,
                 "name": "TIV",
                 "isPreferred": false,
-                "countryCode": "ME"
+                "countryCode": "ME",
+                "countryName": "Montenegro"
             }
         },
         {
@@ -12627,7 +13052,8 @@
                 "id": 771,
                 "name": "MRU",
                 "isPreferred": true,
-                "countryCode": "MU"
+                "countryCode": "MU",
+                "countryName": "Mauritius"
             }
         },
         {
@@ -12640,7 +13066,8 @@
                 "id": 140,
                 "name": "MU",
                 "isPreferred": true,
-                "countryCode": "MU"
+                "countryCode": "MU",
+                "countryName": "Mauritius"
             }
         },
         {
@@ -12964,7 +13391,8 @@
                 "id": 598,
                 "name": "CUN",
                 "isPreferred": false,
-                "countryCode": "MX"
+                "countryCode": "MX",
+                "countryName": "Mexico"
             }
         },
         {
@@ -13128,7 +13556,8 @@
                 "id": 761,
                 "name": "MEX",
                 "isPreferred": true,
-                "countryCode": "MX"
+                "countryCode": "MX",
+                "countryName": "Mexico"
             }
         },
         {
@@ -13324,7 +13753,8 @@
                 "id": 880,
                 "name": "SJD",
                 "isPreferred": false,
-                "countryCode": "MX"
+                "countryCode": "MX",
+                "countryName": "Mexico"
             }
         },
         {
@@ -13424,7 +13854,8 @@
                 "id": 532,
                 "name": "BKI",
                 "isPreferred": false,
-                "countryCode": "MY"
+                "countryCode": "MY",
+                "countryName": "Malaysia"
             }
         },
         {
@@ -13604,7 +14035,8 @@
                 "id": 713,
                 "name": "KUL",
                 "isPreferred": false,
-                "countryCode": "MY"
+                "countryCode": "MY",
+                "countryName": "Malaysia"
             }
         },
         {
@@ -13792,7 +14224,8 @@
                 "id": 902,
                 "name": "SZB",
                 "isPreferred": false,
-                "countryCode": "MY"
+                "countryCode": "MY",
+                "countryName": "Malaysia"
             }
         },
         {
@@ -14076,7 +14509,8 @@
                 "id": 504,
                 "name": "AMS",
                 "isPreferred": false,
-                "countryCode": "NL"
+                "countryCode": "NL",
+                "countryName": "Netherlands"
             }
         },
         {
@@ -14216,7 +14650,8 @@
                 "id": 498,
                 "name": "AKL",
                 "isPreferred": true,
-                "countryCode": "NZ"
+                "countryCode": "NZ",
+                "countryName": "New Zealand"
             }
         },
         {
@@ -14340,7 +14775,8 @@
                 "id": 580,
                 "name": "CHC",
                 "isPreferred": true,
-                "countryCode": "NZ"
+                "countryCode": "NZ",
+                "countryName": "New Zealand"
             }
         },
         {
@@ -14464,7 +14900,8 @@
                 "id": 960,
                 "name": "WLG",
                 "isPreferred": true,
-                "countryCode": "NZ"
+                "countryCode": "NZ",
+                "countryName": "New Zealand"
             }
         },
         {
@@ -14580,7 +15017,8 @@
                 "id": 975,
                 "name": "ZQN",
                 "isPreferred": false,
-                "countryCode": "NZ"
+                "countryCode": "NZ",
+                "countryName": "New Zealand"
             }
         },
         {
@@ -14800,7 +15238,8 @@
                 "id": 959,
                 "name": "WAW",
                 "isPreferred": false,
-                "countryCode": "PL"
+                "countryCode": "PL",
+                "countryName": "Poland"
             }
         },
         {
@@ -14940,7 +15379,8 @@
                 "id": 961,
                 "name": "WMI",
                 "isPreferred": false,
-                "countryCode": "PL"
+                "countryCode": "PL",
+                "countryName": "Poland"
             }
         },
         {
@@ -15400,7 +15840,8 @@
                 "id": 516,
                 "name": "Albufeira",
                 "isPreferred": true,
-                "countryCode": "PT"
+                "countryCode": "PT",
+                "countryName": "Portugal"
             }
         },
         {
@@ -15652,7 +16093,8 @@
                 "id": 644,
                 "name": "FNC",
                 "isPreferred": true,
-                "countryCode": "PT"
+                "countryCode": "PT",
+                "countryName": "Portugal"
             }
         },
         {
@@ -15896,7 +16338,237 @@
                 "id": 748,
                 "name": "Lisboa",
                 "isPreferred": false,
-                "countryCode": "PT"
+                "countryCode": "PT",
+                "countryName": "Portugal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -8.712196452345944,
+                            41.45773440094798
+                        ],
+                        [
+                            -8.753736147141257,
+                            41.4433075032491
+                        ],
+                        [
+                            -8.757344774913605,
+                            41.408111690229774
+                        ],
+                        [
+                            -8.798859823310934,
+                            41.39365710325418
+                        ],
+                        [
+                            -8.802445464672946,
+                            41.35844788892323
+                        ],
+                        [
+                            -8.764551919329666,
+                            41.337704053155385
+                        ],
+                        [
+                            -8.768150445355621,
+                            41.30249228068506
+                        ],
+                        [
+                            -8.809606704912543,
+                            41.288013562373024
+                        ],
+                        [
+                            -8.813182313105425,
+                            41.25278850182364
+                        ],
+                        [
+                            -8.854613961228036,
+                            41.23828224338561
+                        ],
+                        [
+                            -8.858166693507101,
+                            41.203043963325655
+                        ],
+                        [
+                            -8.820323528861202,
+                            41.182322715523426
+                        ],
+                        [
+                            -8.823889145687998,
+                            41.147082041579935
+                        ],
+                        [
+                            -8.786092800532575,
+                            41.12635491277238
+                        ],
+                        [
+                            -8.789671249143952,
+                            41.09111191934728
+                        ],
+                        [
+                            -8.751921644821687,
+                            41.07037900282345
+                        ],
+                        [
+                            -8.75551287264383,
+                            41.035133764316946
+                        ],
+                        [
+                            -8.71780993059557,
+                            41.01439515326642
+                        ],
+                        [
+                            -8.7214138852434,
+                            40.97914774407609
+                        ],
+                        [
+                            -8.683757527008511,
+                            40.958403531588125
+                        ],
+                        [
+                            -8.68737415628508,
+                            40.92315402610803
+                        ],
+                        [
+                            -8.649764303501815,
+                            40.90240430517056
+                        ],
+                        [
+                            -8.608536347017534,
+                            40.91688974763108
+                        ],
+                        [
+                            -8.604884377572802,
+                            40.952128326966026
+                        ],
+                        [
+                            -8.563632283454773,
+                            40.96658643871918
+                        ],
+                        [
+                            -8.559957555450346,
+                            41.00181200099808
+                        ],
+                        [
+                            -8.518681346506474,
+                            41.01624272466655
+                        ],
+                        [
+                            -8.514983818924204,
+                            41.05145520102521
+                        ],
+                        [
+                            -8.473683518162519,
+                            41.06585847944836
+                        ],
+                        [
+                            -8.469963149977358,
+                            41.10105780116986
+                        ],
+                        [
+                            -8.428638780606581,
+                            41.115433577404204
+                        ],
+                        [
+                            -8.424895530786937,
+                            41.15061967591935
+                        ],
+                        [
+                            -8.383547116217095,
+                            41.16496789323911
+                        ],
+                        [
+                            -8.379780943725294,
+                            41.20014070012704
+                        ],
+                        [
+                            -8.417398579927076,
+                            41.22097633951788
+                        ],
+                        [
+                            -8.413644869219954,
+                            41.25614685295369
+                        ],
+                        [
+                            -8.372238079208874,
+                            41.27047066711416
+                        ],
+                        [
+                            -8.36846137745092,
+                            41.305627775649796
+                        ],
+                        [
+                            -8.327030510943978,
+                            41.31992388306858
+                        ],
+                        [
+                            -8.323230776934349,
+                            41.35506751865606
+                        ],
+                        [
+                            -8.360897410535056,
+                            41.37592611406743
+                        ],
+                        [
+                            -8.357110135590005,
+                            41.411067292523136
+                        ],
+                        [
+                            -8.394823768773426,
+                            41.43192020559179
+                        ],
+                        [
+                            -8.436323584899187,
+                            41.41761768655326
+                        ],
+                        [
+                            -8.474083136616862,
+                            41.438450587137794
+                        ],
+                        [
+                            -8.470344051527334,
+                            41.47360023731201
+                        ],
+                        [
+                            -8.508150711891064,
+                            41.49442727938486
+                        ],
+                        [
+                            -8.54969519576923,
+                            41.480090425619494
+                        ],
+                        [
+                            -8.587547713564796,
+                            41.50089728691099
+                        ],
+                        [
+                            -8.629102192741982,
+                            41.48652930041738
+                        ],
+                        [
+                            -8.632769723875063,
+                            41.45135780210399
+                        ],
+                        [
+                            -8.674299682472979,
+                            41.43696204739536
+                        ],
+                        [
+                            -8.712196452345944,
+                            41.45773440094798
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 811,
+                "name": "OPO",
+                "isPreferred": false,
+                "countryCode": "PT",
+                "countryName": "Portugal"
             }
         },
         {
@@ -16108,7 +16780,8 @@
                 "id": 919,
                 "name": "S\u00e3o Miguel",
                 "isPreferred": false,
-                "countryCode": "PT"
+                "countryCode": "PT",
+                "countryName": "Portugal"
             }
         },
         {
@@ -16312,7 +16985,8 @@
                 "id": 619,
                 "name": "DOH",
                 "isPreferred": true,
-                "countryCode": "QA"
+                "countryCode": "QA",
+                "countryName": "Qatar"
             }
         },
         {
@@ -16325,7 +16999,8 @@
                 "id": 171,
                 "name": "RE",
                 "isPreferred": false,
-                "countryCode": "RE"
+                "countryCode": "RE",
+                "countryName": "R\u00e9union"
             }
         },
         {
@@ -16338,7 +17013,8 @@
                 "id": 178,
                 "name": "SC",
                 "isPreferred": false,
-                "countryCode": "SC"
+                "countryCode": "SC",
+                "countryName": "Seychelles"
             }
         },
         {
@@ -16470,7 +17146,8 @@
                 "id": 878,
                 "name": "SEZ",
                 "isPreferred": true,
-                "countryCode": "SC"
+                "countryCode": "SC",
+                "countryName": "Seychelles"
             }
         },
         {
@@ -16785,8 +17462,9 @@
             "properties": {
                 "id": 558,
                 "name": "Bangkok",
-                "isPreferred": true,
-                "countryCode": "TH"
+                "isPreferred": false,
+                "countryCode": "TH",
+                "countryName": "Thailand"
             }
         },
         {
@@ -16958,7 +17636,8 @@
                 "id": 589,
                 "name": "CNX",
                 "isPreferred": false,
-                "countryCode": "TH"
+                "countryCode": "TH",
+                "countryName": "Thailand"
             }
         },
         {
@@ -17090,7 +17769,8 @@
                 "id": 676,
                 "name": "HHQ",
                 "isPreferred": false,
-                "countryCode": "TH"
+                "countryCode": "TH",
+                "countryName": "Thailand"
             }
         },
         {
@@ -17366,7 +18046,8 @@
                 "id": 678,
                 "name": "HKT",
                 "isPreferred": false,
-                "countryCode": "TH"
+                "countryCode": "TH",
+                "countryName": "Thailand"
             }
         },
         {
@@ -17554,7 +18235,8 @@
                 "id": 704,
                 "name": "KBV",
                 "isPreferred": false,
-                "countryCode": "TH"
+                "countryCode": "TH",
+                "countryName": "Thailand"
             }
         },
         {
@@ -17678,7 +18360,8 @@
                 "id": 721,
                 "name": "Koh Samui",
                 "isPreferred": true,
-                "countryCode": "TH"
+                "countryCode": "TH",
+                "countryName": "Thailand"
             }
         },
         {
@@ -17691,7 +18374,8 @@
                 "id": 198,
                 "name": "TH",
                 "isPreferred": false,
-                "countryCode": "TH"
+                "countryCode": "TH",
+                "countryName": "Thailand"
             }
         },
         {
@@ -17903,7 +18587,8 @@
                 "id": 947,
                 "name": "UTP",
                 "isPreferred": false,
-                "countryCode": "TH"
+                "countryCode": "TH",
+                "countryName": "Thailand"
             }
         },
         {
@@ -18291,7 +18976,8 @@
                 "id": 515,
                 "name": "AYT",
                 "isPreferred": false,
-                "countryCode": "TR"
+                "countryCode": "TR",
+                "countryName": "T\u00fcrkiye"
             }
         },
         {
@@ -18703,7 +19389,8 @@
                 "id": 695,
                 "name": "Istanbul",
                 "isPreferred": true,
-                "countryCode": "TR"
+                "countryCode": "TR",
+                "countryName": "T\u00fcrkiye"
             }
         },
         {
@@ -18955,7 +19642,8 @@
                 "id": 788,
                 "name": "NAV",
                 "isPreferred": false,
-                "countryCode": "TR"
+                "countryCode": "TR",
+                "countryName": "T\u00fcrkiye"
             }
         },
         {
@@ -19231,7 +19919,277 @@
                 "id": 542,
                 "name": "BOS",
                 "isPreferred": false,
-                "countryCode": "US"
+                "countryCode": "US",
+                "countryName": "United States"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -105.20084443327922,
+                            39.55246486577152
+                        ],
+                        [
+                            -105.15869135912332,
+                            39.538270590341405
+                        ],
+                        [
+                            -105.12159541693143,
+                            39.55822402915115
+                        ],
+                        [
+                            -105.07945550082255,
+                            39.54400250357943
+                        ],
+                        [
+                            -105.04234619559152,
+                            39.56392843882639
+                        ],
+                        [
+                            -105.0002195987822,
+                            39.54967968401499
+                        ],
+                        [
+                            -104.99521811097682,
+                            39.51551065467813
+                        ],
+                        [
+                            -104.9531207139736,
+                            39.50124037409268
+                        ],
+                        [
+                            -104.94813755774501,
+                            39.467055191315055
+                        ],
+                        [
+                            -104.90606937989429,
+                            39.4527634566447
+                        ],
+                        [
+                            -104.8689687069865,
+                            39.472651207935584
+                        ],
+                        [
+                            -104.82691417321242,
+                            39.45833236544581
+                        ],
+                        [
+                            -104.78980061630257,
+                            39.47819259899238
+                        ],
+                        [
+                            -104.79473054024913,
+                            39.51237697041272
+                        ],
+                        [
+                            -104.75759309659456,
+                            39.532214942576665
+                        ],
+                        [
+                            -104.76251466093188,
+                            39.56638277372909
+                        ],
+                        [
+                            -104.80460033387614,
+                            39.58071308737258
+                        ],
+                        [
+                            -104.80954021010048,
+                            39.61486479319281
+                        ],
+                        [
+                            -104.77236772488199,
+                            39.634685727151606
+                        ],
+                        [
+                            -104.77729923103666,
+                            39.668820809837
+                        ],
+                        [
+                            -104.74010279670057,
+                            39.68861935742869
+                        ],
+                        [
+                            -104.74502591037977,
+                            39.722737766946324
+                        ],
+                        [
+                            -104.70780552119254,
+                            39.74251387153722
+                        ],
+                        [
+                            -104.66567326411153,
+                            39.728166301243185
+                        ],
+                        [
+                            -104.62844021665167,
+                            39.74791465904489
+                        ],
+                        [
+                            -104.63332811876215,
+                            39.78201582738651
+                        ],
+                        [
+                            -104.5960711564671,
+                            39.80174164037492
+                        ],
+                        [
+                            -104.60095058688022,
+                            39.835826018556595
+                        ],
+                        [
+                            -104.56366970432667,
+                            39.85552923063778
+                        ],
+                        [
+                            -104.56854064050893,
+                            39.889596769268316
+                        ],
+                        [
+                            -104.61071932970555,
+                            39.90396165607884
+                        ],
+                        [
+                            -104.61560864864894,
+                            39.93801287650973
+                        ],
+                        [
+                            -104.65781714227784,
+                            39.95235618896465
+                        ],
+                        [
+                            -104.6951207881268,
+                            39.932642516037234
+                        ],
+                        [
+                            -104.73734348107163,
+                            39.946958445671555
+                        ],
+                        [
+                            -104.77463436394393,
+                            39.92721689505541
+                        ],
+                        [
+                            -104.81687109401928,
+                            39.9415054192205
+                        ],
+                        [
+                            -104.85414906985926,
+                            39.92173601630277
+                        ],
+                        [
+                            -104.89639967471007,
+                            39.93599711269983
+                        ],
+                        [
+                            -104.93366459960555,
+                            39.91619988321471
+                        ],
+                        [
+                            -104.9759289167109,
+                            39.93043352989518
+                        ],
+                        [
+                            -104.98094413066678,
+                            39.964470051796866
+                        ],
+                        [
+                            -105.02323790442696,
+                            39.97868185171719
+                        ],
+                        [
+                            -105.06050055149636,
+                            39.95885149806242
+                        ],
+                        [
+                            -105.10280779157026,
+                            39.973035776968246
+                        ],
+                        [
+                            -105.14005700132167,
+                            39.95317762988415
+                        ],
+                        [
+                            -105.13498815884111,
+                            39.919140554064846
+                        ],
+                        [
+                            -105.17221306891479,
+                            39.899260002750154
+                        ],
+                        [
+                            -105.16713596441218,
+                            39.865206129161585
+                        ],
+                        [
+                            -105.20433658148505,
+                            39.84530323027124
+                        ],
+                        [
+                            -105.24662497680715,
+                            39.859448839487875
+                        ],
+                        [
+                            -105.28381192478159,
+                            39.83951826691106
+                        ],
+                        [
+                            -105.27869986613258,
+                            39.80544747517991
+                        ],
+                        [
+                            -105.31586248401963,
+                            39.78549465849851
+                        ],
+                        [
+                            -105.31074224340594,
+                            39.75140718585036
+                        ],
+                        [
+                            -105.2684860585737,
+                            39.73727267480427
+                        ],
+                        [
+                            -105.26338430289745,
+                            39.70316870528584
+                        ],
+                        [
+                            -105.3005120816562,
+                            39.68319910555697
+                        ],
+                        [
+                            -105.29540215375255,
+                            39.64907853717292
+                        ],
+                        [
+                            -105.25319107086801,
+                            39.634927725728595
+                        ],
+                        [
+                            -105.24809958777448,
+                            39.60079075507616
+                        ],
+                        [
+                            -105.20591749903484,
+                            39.58661817610126
+                        ],
+                        [
+                            -105.20084443327922,
+                            39.55246486577152
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 629,
+                "name": "Denver",
+                "isPreferred": false,
+                "countryCode": "US",
+                "countryName": "United States"
             }
         },
         {
@@ -19603,7 +20561,8 @@
                 "id": 616,
                 "name": "DFW",
                 "isPreferred": false,
-                "countryCode": "US"
+                "countryCode": "US",
+                "countryName": "United States"
             }
         },
         {
@@ -19854,8 +20813,286 @@
             "properties": {
                 "id": 724,
                 "name": "LAS",
+                "isPreferred": true,
+                "countryCode": "US",
+                "countryName": "United States"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -117.99374510276346,
+                            34.063757441993424
+                        ],
+                        [
+                            -118.03441089533486,
+                            34.07405729829797
+                        ],
+                        [
+                            -118.04308431013537,
+                            34.108585902322424
+                        ],
+                        [
+                            -118.01107342251098,
+                            34.132822482844084
+                        ],
+                        [
+                            -118.01974511261051,
+                            34.167341792463056
+                        ],
+                        [
+                            -118.06044621105677,
+                            34.17761667890438
+                        ],
+                        [
+                            -118.06913470511167,
+                            34.21211880334531
+                        ],
+                        [
+                            -118.10984744066103,
+                            34.222369359446404
+                        ],
+                        [
+                            -118.11855274367103,
+                            34.256854236631156
+                        ],
+                        [
+                            -118.1592770623915,
+                            34.267080414834105
+                        ],
+                        [
+                            -118.19127232307657,
+                            34.24282249727824
+                        ],
+                        [
+                            -118.231984387723,
+                            34.25302506867017
+                        ],
+                        [
+                            -118.24072496097237,
+                            34.28748473494772
+                        ],
+                        [
+                            -118.28144845854513,
+                            34.29766286670581
+                        ],
+                        [
+                            -118.3134075583554,
+                            34.273382191023714
+                        ],
+                        [
+                            -118.35411858213196,
+                            34.2835367320182
+                        ],
+                        [
+                            -118.38604677616749,
+                            34.25924045292967
+                        ],
+                        [
+                            -118.42674520293573,
+                            34.26937143384407
+                        ],
+                        [
+                            -118.45864241993635,
+                            34.24505962282926
+                        ],
+                        [
+                            -118.49932812683369,
+                            34.255167074566366
+                        ],
+                        [
+                            -118.53119429598253,
+                            34.230839803223354
+                        ],
+                        [
+                            -118.52238041389418,
+                            34.19641215186192
+                        ],
+                        [
+                            -118.55422118473868,
+                            34.17207655522317
+                        ],
+                        [
+                            -118.5948701317398,
+                            34.18216155077381
+                        ],
+                        [
+                            -118.6266797924569,
+                            34.157810633008985
+                        ],
+                        [
+                            -118.61784625925259,
+                            34.12338179797462
+                        ],
+                        [
+                            -118.64963055710943,
+                            34.09902270072163
+                        ],
+                        [
+                            -118.64079558262064,
+                            34.064584643266514
+                        ],
+                        [
+                            -118.60019442555559,
+                            34.05449752821177
+                        ],
+                        [
+                            -118.59137611714627,
+                            34.020042141381936
+                        ],
+                        [
+                            -118.6231408566894,
+                            33.99568203901557
+                        ],
+                        [
+                            -118.61432109734328,
+                            33.96121754021952
+                        ],
+                        [
+                            -118.57375469744147,
+                            33.951104983843805
+                        ],
+                        [
+                            -118.56495157825086,
+                            33.91662326125116
+                        ],
+                        [
+                            -118.52439611752418,
+                            33.906486387589254
+                        ],
+                        [
+                            -118.51560963434204,
+                            33.87198750307615
+                        ],
+                        [
+                            -118.54736050148242,
+                            33.847633648977784
+                        ],
+                        [
+                            -118.53857253603087,
+                            33.81312580762833
+                        ],
+                        [
+                            -118.49805180366533,
+                            33.802963673243895
+                        ],
+                        [
+                            -118.48928044830576,
+                            33.76843877637098
+                        ],
+                        [
+                            -118.44877072258626,
+                            33.758252451563436
+                        ],
+                        [
+                            -118.44001597306597,
+                            33.723710561534375
+                        ],
+                        [
+                            -118.39951730790538,
+                            33.71350009357444
+                        ],
+                        [
+                            -118.3907791598974,
+                            33.67894127294849
+                        ],
+                        [
+                            -118.35029160906377,
+                            33.66870670934314
+                        ],
+                        [
+                            -118.31851860782598,
+                            33.69303186121804
+                        ],
+                        [
+                            -118.27801865383252,
+                            33.682774107171596
+                        ],
+                        [
+                            -118.24621511022983,
+                            33.70708411294502
+                        ],
+                        [
+                            -118.205702874495,
+                            33.69680313852693
+                        ],
+                        [
+                            -118.17386885930097,
+                            33.721097927244344
+                        ],
+                        [
+                            -118.13334446358292,
+                            33.710793702740126
+                        ],
+                        [
+                            -118.1014800480041,
+                            33.73507320356296
+                        ],
+                        [
+                            -118.1101452272225,
+                            33.76966413337981
+                        ],
+                        [
+                            -118.07825561741483,
+                            33.79393548755836
+                        ],
+                        [
+                            -118.03769568024063,
+                            33.78360869570814
+                        ],
+                        [
+                            -118.00577573535219,
+                            33.80786462382051
+                        ],
+                        [
+                            -118.01442082832962,
+                            33.842454540094366
+                        ],
+                        [
+                            -117.98247565642951,
+                            33.86670217525782
+                        ],
+                        [
+                            -117.99111901958335,
+                            33.90128308643267
+                        ],
+                        [
+                            -117.9591485942077,
+                            33.92552234985428
+                        ],
+                        [
+                            -117.96779021486434,
+                            33.960094188700005
+                        ],
+                        [
+                            -118.00842074604685,
+                            33.97041891275147
+                        ],
+                        [
+                            -118.01707911724661,
+                            34.00497377934555
+                        ],
+                        [
+                            -117.98508846519094,
+                            34.02921175899414
+                        ],
+                        [
+                            -117.99374510276346,
+                            34.063757441993424
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 751,
+                "name": "Los Angeles",
                 "isPreferred": false,
-                "countryCode": "US"
+                "countryCode": "US",
+                "countryName": "United States"
             }
         },
         {
@@ -20195,7 +21432,8 @@
                 "id": 784,
                 "name": "Miami Beach",
                 "isPreferred": false,
-                "countryCode": "US"
+                "countryCode": "US",
+                "countryName": "United States"
             }
         },
         {
@@ -20638,8 +21876,9 @@
             "properties": {
                 "id": 801,
                 "name": "New York",
-                "isPreferred": false,
-                "countryCode": "US"
+                "isPreferred": true,
+                "countryCode": "US",
+                "countryName": "United States"
             }
         },
         {
@@ -20899,7 +22138,8 @@
                 "id": 804,
                 "name": "O'ahu",
                 "isPreferred": false,
-                "countryCode": "US"
+                "countryCode": "US",
+                "countryName": "United States"
             }
         },
         {
@@ -21183,7 +22423,8 @@
                 "id": 816,
                 "name": "Orlando",
                 "isPreferred": false,
-                "countryCode": "US"
+                "countryCode": "US",
+                "countryName": "United States"
             }
         },
         {
@@ -21467,7 +22708,8 @@
                 "id": 908,
                 "name": "San Francisco",
                 "isPreferred": true,
-                "countryCode": "US"
+                "countryCode": "US",
+                "countryName": "United States"
             }
         },
         {
@@ -21943,7 +23185,8 @@
                 "id": 913,
                 "name": "Seattle",
                 "isPreferred": false,
-                "countryCode": "US"
+                "countryCode": "US",
+                "countryName": "United States"
             }
         },
         {
@@ -21956,7 +23199,8 @@
                 "id": 212,
                 "name": "US",
                 "isPreferred": false,
-                "countryCode": "US"
+                "countryCode": "US",
+                "countryName": "United States"
             }
         },
         {
@@ -22272,7 +23516,8 @@
                 "id": 963,
                 "name": "Washington",
                 "isPreferred": false,
-                "countryCode": "US"
+                "countryCode": "US",
+                "countryName": "United States"
             }
         },
         {
@@ -22492,7 +23737,8 @@
                 "id": 603,
                 "name": "CXR",
                 "isPreferred": true,
-                "countryCode": "VN"
+                "countryCode": "VN",
+                "countryName": "Viet Nam"
             }
         },
         {
@@ -22759,8 +24005,9 @@
             "properties": {
                 "id": 612,
                 "name": "DAD",
-                "isPreferred": false,
-                "countryCode": "VN"
+                "isPreferred": true,
+                "countryCode": "VN",
+                "countryName": "Viet Nam"
             }
         },
         {
@@ -22948,7 +24195,8 @@
                 "id": 617,
                 "name": "DLI",
                 "isPreferred": true,
-                "countryCode": "VN"
+                "countryCode": "VN",
+                "countryName": "Viet Nam"
             }
         },
         {
@@ -23280,7 +24528,8 @@
                 "id": 671,
                 "name": "HAN",
                 "isPreferred": false,
-                "countryCode": "VN"
+                "countryCode": "VN",
+                "countryName": "Viet Nam"
             }
         },
         {
@@ -23412,7 +24661,8 @@
                 "id": 682,
                 "name": "HUI",
                 "isPreferred": false,
-                "countryCode": "VN"
+                "countryCode": "VN",
+                "countryName": "Viet Nam"
             }
         },
         {
@@ -23600,7 +24850,8 @@
                 "id": 879,
                 "name": "SGN",
                 "isPreferred": true,
-                "countryCode": "VN"
+                "countryCode": "VN",
+                "countryName": "Viet Nam"
             }
         },
         {
@@ -23613,7 +24864,8 @@
                 "id": 219,
                 "name": "VN",
                 "isPreferred": false,
-                "countryCode": "VN"
+                "countryCode": "VN",
+                "countryName": "Viet Nam"
             }
         },
         {
@@ -23929,7 +25181,8 @@
                 "id": 591,
                 "name": "CPT",
                 "isPreferred": false,
-                "countryCode": "ZA"
+                "countryCode": "ZA",
+                "countryName": "South Africa"
             }
         },
         {
@@ -24261,7 +25514,8 @@
                 "id": 625,
                 "name": "DUR",
                 "isPreferred": true,
-                "countryCode": "ZA"
+                "countryCode": "ZA",
+                "countryName": "South Africa"
             }
         },
         {
@@ -24633,7 +25887,8 @@
                 "id": 703,
                 "name": "Johannesburg",
                 "isPreferred": false,
-                "countryCode": "ZA"
+                "countryCode": "ZA",
+                "countryName": "South Africa"
             }
         }
     ]
